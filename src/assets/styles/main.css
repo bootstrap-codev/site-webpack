@@ -1,0 +1,15 @@
+html,
+body {
+	height: 100%;
+}
+
+html {
+	display: table;
+	margin: 60px auto 0 auto;
+}
+
+body {
+	background-color: #e3e3e3;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
